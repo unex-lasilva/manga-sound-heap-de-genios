@@ -4,6 +4,7 @@ import java.util.Scanner;
 public class MangaController {
     Scanner scanner = new Scanner(System.in);
 
+    // metodo pra mostrar o menu, ler a opcao que o usuario escolheu e retornar pra ser usada em outro lugar
     public int mostrarMenu(){
         System.out.println("Escolha uma opcao: ");
         System.out.println("1. Adicionar musica");
