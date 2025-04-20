@@ -7,9 +7,13 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 <img width="552" alt="image" src="https://github.com/user-attachments/assets/9873181b-511f-42d9-8cf5-5d5966515634" />
 
 
-# Equipe: <nome-da-equipe>
-1. <Nome de fulano>
-2. <Nome de fulana>
+# Equipe: Heap de Gênios
+1. Chaira Santos Sacramento
+2. Giovanna Oliveira Araujo
+3. Italo Luiz Barros Medrado
+4. Janaina Araujo Bispo
+5. João Magalhães Mira Neto
+
 
 Avaliações:
 | Chaira  | Giovanna | Ítalo | Janaína | João |
