@@ -62,6 +62,6 @@ public class ReprodutorLista {
 
     public void restarLista(){
         indiceAtual = 0;
-        play();S
+        play();
     }
 }
