@@ -1,6 +1,7 @@
 package br.com.mangarosa.model;
 
 public class Musica {
+
     private String titulo;
     private int duracao;
     private String path;
@@ -43,5 +44,26 @@ public class Musica {
 
     public void setArtista(String artista) {
         this.artista = artista;
+      
+    private String nome;
+    private String caminho;
+
+    public Musica(String nome, String caminho) {
+        this.nome = nome;
+        this.caminho = caminho;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public String getCaminho() {
+        return caminho;
+    }
+
+    @Override
+    public String toString() {
+        return nome + " (" + caminho + ")";
+
     }
 }
