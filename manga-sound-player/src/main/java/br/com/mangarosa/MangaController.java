@@ -4,7 +4,6 @@ import br.com.mangarosa.model.Musica;
 import br.com.mangarosa.repositoriomusical.ListaReproducao;
 import java.util.Scanner;
 import javax.sound.sampled.*;
-import java.io.File;
 
 public class MangaController {
     // chamei tres listas e importei o scanner
