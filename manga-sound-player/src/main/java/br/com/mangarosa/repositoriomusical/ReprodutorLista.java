@@ -9,7 +9,8 @@ public class ReprodutorLista {
         private Clip clip;
 
     public ReprodutorLista() {
-         this.listaReproducao = new ListaReproducao();
+        String nome = "";
+        this.listaReproducao = new ListaReproducao(nome);
          this.status = "Pausado";
     }
     public void adicionaClip(Clip clip) {

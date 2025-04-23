@@ -5,11 +5,12 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ListaReproducao {
-
     private List<Clip> clipes;
+    String nome; // string nome pra poder ver o nome da playlist
 
 
-    public ListaReproducao() {
+    public ListaReproducao(String nome) {
+        this.nome = nome; // inicializar a string
         clipes = new ArrayList<>();
     }
 
@@ -47,5 +48,10 @@ public class ListaReproducao {
         for (Clip clip : clipes) {
             System.out.println(clip);
         }
+    }
+
+    // metodo pra puxar o nome da playlist
+    public String getNome() {
+        return nome;
     }
 }

@@ -1,24 +1,45 @@
 package br.com.mangarosa.model;
 
+// copiei as alteracoes do pull request de giovanna e colei aqui pra puxar os metodos no MangaController
 public class Musica {
-    private String nome;
-    private String caminho;
 
-    public Musica(String nome, String caminho) {
-        this.nome = nome;
-        this.caminho = caminho;
+    private String titulo;
+    private int duracao;
+    private String path;
+    private String artista;
+
+    public Musica(String titulo, int duracao, String path, String artista) {
+        this.titulo = titulo;
+        this.duracao = duracao;
+        this.path = path;
+        this.artista = artista;
     }
 
-    public String getNome() {
-        return nome;
+    public String getTitulo() {
+        return titulo;
     }
 
-    public String getCaminho() {
-        return caminho;
+    public void setTitulo(String titulo) {
+        this.titulo = titulo;
     }
 
-    @Override
-    public String toString() {
-        return nome + " (" + caminho + ")";
+    public int getDuracao() {
+        return duracao;
+    }
+
+    public void setDuracao(int duracao) {
+        this.duracao = duracao;
+    }
+
+    public String getPath() {
+        return path;
+    }
+
+    public void setPath(String path) {
+        this.path = path;
+    }
+
+    public String getArtista() {
+        return artista;
     }
 }
