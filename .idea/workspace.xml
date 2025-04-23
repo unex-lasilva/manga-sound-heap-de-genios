@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cd96723-c1e1-46cd-b90b-c7a2f9e92865" name="Changes" comment="adicionando features do mangacontroller, falta colocar os tratamentos de erro e melhorar a logica, mas boa parte ja esta feita e comentada, e depois integrar tudo no MangaSoundApplication">
+    <list default="true" id="0cd96723-c1e1-46cd-b90b-c7a2f9e92865" name="Changes" comment="Substitui ListaEncadeada por um ArrayList no MangaController, adicionei tratamento de erros, tirei o que estava comentado no MangaSoundApplication e adicionei o metodo que faltava pra editar a playlist, faltando apenas as pontuacoes nas palavras e testar substituindo o ArrayList pela ListaEncadeada que esta sendo desenvolvida">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/MangaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/MangaController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/MangaSoundApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/MangaSoundApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manga-sound-player/target/classes/br/com/mangarosa/MangaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/manga-sound-player/target/classes/br/com/mangarosa/MangaController.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745373924998</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Substitui ListaEncadeada por um ArrayList no MangaController, adicionei tratamento de erros, tirei o que estava comentado no MangaSoundApplication e adicionei o metodo que faltava pra editar a playlist, faltando apenas as pontuacoes nas palavras e testar substituindo o ArrayList pela ListaEncadeada que esta sendo desenvolvida">
+      <option name="closed" value="true" />
+      <created>1745449809854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745449809855</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +172,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adicionando features do mangacontroller, falta colocar os tratamentos de erro e melhorar a logica, mas boa parte ja esta feita e comentada, e depois integrar tudo no MangaSoundApplication" />
-    <option name="LAST_COMMIT_MESSAGE" value="adicionando features do mangacontroller, falta colocar os tratamentos de erro e melhorar a logica, mas boa parte ja esta feita e comentada, e depois integrar tudo no MangaSoundApplication" />
+    <MESSAGE value="Substitui ListaEncadeada por um ArrayList no MangaController, adicionei tratamento de erros, tirei o que estava comentado no MangaSoundApplication e adicionei o metodo que faltava pra editar a playlist, faltando apenas as pontuacoes nas palavras e testar substituindo o ArrayList pela ListaEncadeada que esta sendo desenvolvida" />
+    <option name="LAST_COMMIT_MESSAGE" value="Substitui ListaEncadeada por um ArrayList no MangaController, adicionei tratamento de erros, tirei o que estava comentado no MangaSoundApplication e adicionei o metodo que faltava pra editar a playlist, faltando apenas as pontuacoes nas palavras e testar substituindo o ArrayList pela ListaEncadeada que esta sendo desenvolvida" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
