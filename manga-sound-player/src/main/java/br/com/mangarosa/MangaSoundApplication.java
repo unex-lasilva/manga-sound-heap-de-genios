@@ -1,5 +1,8 @@
 package br.com.mangarosa;
-import javax.sound.sampled.LineUnavailableException; import javax.sound.sampled.UnsupportedAudioFileException; import java.io.IOException;
+
+import javax.sound.sampled.LineUnavailableException;
+import javax.sound.sampled.UnsupportedAudioFileException;
+import java.io.IOException;
 
 public class MangaSoundApplication {
     public static void main(String[] args) {
@@ -11,16 +14,16 @@ public class MangaSoundApplication {
         try {
             switch (choice) {
                 case 1:
-                    controller.adicionarMusica();
+                    controller.adicionarMusica(); // adicionar musica
                     break;
                 case 2:
-                    controller.criarPlaylist();
+                    controller.criarPlaylist(); // criar playlist
                     break;
                 case 3:
-                    // controller.editarPlaylist();
+                    controller.editarPlaylist(); // editar playlist, vamos adicionar esse metodo
                     break;
                 case 4:
-                    controller.tocarPlaylist();
+                    controller.tocarPlaylist(); // tocar playlist
                     break;
                 case 5:
                     System.out.println("Saindo do MangaSound. Tchau!");
@@ -28,7 +31,8 @@ public class MangaSoundApplication {
                 default:
                     System.out.println("Opcao invalida. Tenta de novo!");
             }
-        } catch () {
+        } catch (IOException | UnsupportedAudioFileException | LineUnavailableException e) {
+            System.out.println("Deu erro: " + e);
             // pesquisar como fazer isso pra implementar depos
         }
     }
