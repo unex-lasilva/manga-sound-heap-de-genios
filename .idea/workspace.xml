@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cd96723-c1e1-46cd-b90b-c7a2f9e92865" name="Changes" comment="Substitui ListaEncadeada por um ArrayList no MangaController, adicionei tratamento de erros, tirei o que estava comentado no MangaSoundApplication e adicionei o metodo que faltava pra editar a playlist, faltando apenas as pontuacoes nas palavras e testar substituindo o ArrayList pela ListaEncadeada que esta sendo desenvolvida" />
+    <list default="true" id="0cd96723-c1e1-46cd-b90b-c7a2f9e92865" name="Changes" comment="Merge branch 'main' into feature/mangaController&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change beforePath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/MangaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/MangaController.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

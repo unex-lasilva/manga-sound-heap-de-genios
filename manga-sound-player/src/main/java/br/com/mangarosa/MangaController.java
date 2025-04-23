@@ -2,6 +2,7 @@ package br.com.mangarosa;
 import br.com.mangarosa.collections.ListaEncadeada;
 import br.com.mangarosa.model.Musica;
 import br.com.mangarosa.repositoriomusical.ListaReproducao;
+import java.io.File;
 import java.io.IOException;
 import java.util.Scanner;
 import javax.sound.sampled.*;
