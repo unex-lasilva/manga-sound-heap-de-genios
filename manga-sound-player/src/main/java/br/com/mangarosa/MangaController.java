@@ -5,7 +5,6 @@ import br.com.mangarosa.repositoriomusical.ListaReproducao;
 import java.io.IOException;
 import java.util.Scanner;
 import javax.sound.sampled.*;
-import java.io.File;
 
 public class MangaController {
     private ListaEncadeada musicas; // guardar as musicas pra mostrar os titulos

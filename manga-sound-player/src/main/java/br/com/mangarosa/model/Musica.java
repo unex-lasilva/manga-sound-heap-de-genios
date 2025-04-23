@@ -1,6 +1,5 @@
 package br.com.mangarosa.model;
 
-// copiei as alteracoes do pull request de giovanna e colei aqui pra puxar os metodos no MangaController
 public class Musica {
 
     private String titulo;
@@ -41,5 +40,30 @@ public class Musica {
 
     public String getArtista() {
         return artista;
+    }
+
+    public void setArtista(String artista) {
+        this.artista = artista;
+      
+    private String nome;
+    private String caminho;
+
+    public Musica(String nome, String caminho) {
+        this.nome = nome;
+        this.caminho = caminho;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public String getCaminho() {
+        return caminho;
+    }
+
+    @Override
+    public String toString() {
+        return nome + " (" + caminho + ")";
+
     }
 }

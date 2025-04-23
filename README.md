@@ -18,3 +18,4 @@ Avaliações:
 | Chaira  | Giovanna | Ítalo | Janaína | João |
 | ------- | -------- | ----- | ------- | ---- |
 |         |          |       |         |  9,9 |
+
