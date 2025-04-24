@@ -7,11 +7,14 @@ public class Musica {
     private String path;
     private String artista;
 
-    public Musica(String titulo, int duracao, String path, String artista) {
+    public Musica() {
+    }
+
+    public Musica(String titulo, String artista, String path, int duracao) {
         this.titulo = titulo;
-        this.duracao = duracao;
-        this.path = path;
         this.artista = artista;
+        this.path = path;
+        this.duracao = duracao;
     }
 
     public String getTitulo() {
@@ -44,26 +47,5 @@ public class Musica {
 
     public void setArtista(String artista) {
         this.artista = artista;
-      
-    private String nome;
-    private String caminho;
-
-    public Musica(String nome, String caminho) {
-        this.nome = nome;
-        this.caminho = caminho;
-    }
-
-    public String getNome() {
-        return nome;
-    }
-
-    public String getCaminho() {
-        return caminho;
-    }
-
-    @Override
-    public String toString() {
-        return nome + " (" + caminho + ")";
-
     }
 }
