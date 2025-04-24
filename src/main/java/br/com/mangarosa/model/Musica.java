@@ -45,7 +45,11 @@ public class Musica {
         return artista;
     }
 
+<<<<<<< Updated upstream:src/main/java/br/com/mangarosa/model/Musica.java
     public void setArtista(String artista) {
         this.artista = artista;
     }
+=======
+    public void setArtista(String artista) { this.artista = artista; }
+>>>>>>> Stashed changes:manga-sound-player/src/main/java/br/com/mangarosa/model/Musica.java
 }
