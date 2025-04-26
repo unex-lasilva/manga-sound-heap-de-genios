@@ -18,4 +18,4 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 Avaliações:
 | Chaira  | Giovanna | Ítalo | Janaína | João |
 | ------- | -------- | ----- | ------- | ---- |
-|         |   9,1    |       |         |  9,2 |
+|         |   9,1    |       |   9,3   |  9,2 |
