@@ -17,5 +17,5 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 Avaliações:
 | Chaira  | Giovanna | Ítalo | Janaína | João |
 | ------- | -------- | ----- | ------- | ---- |
-|         |  9,5     |       |         |  9,9 |
+|    10   |  9,5     |       |         |  9,9 |
 
