@@ -13,3 +13,9 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 3. Italo Luiz Barros Medrado
 4. Janaina Araujo Bispo
 5. João Magalhães Mira Neto
+
+Avaliações:
+| Chaira  | Giovanna | Ítalo | Janaína | João |
+| ------- | -------- | ----- | ------- | ---- |
+|         |          |       |    9,9  |  9,9 |
+
