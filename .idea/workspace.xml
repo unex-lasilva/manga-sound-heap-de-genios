@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cd96723-c1e1-46cd-b90b-c7a2f9e92865" name="Changes" comment="">
-
+    <list default="true" id="0cd96723-c1e1-46cd-b90b-c7a2f9e92865" name="Changes" comment="Merge branch 'main' into feature/mangaController&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/model/ListaEncadeada.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/MangaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/MangaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/MangaSoundApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/MangaSoundApplication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/model/Musica.java" beforeDir="false" afterPath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/model/Musica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/repositoriomusical/ListaReproducao.java" beforeDir="false" afterPath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/repositoriomusical/ListaReproducao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/repositoriomusical/ReprodutorLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/repositoriomusical/ReprodutorLista.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/model/No.java" beforeDir="false" afterPath="$PROJECT_DIR$/manga-sound-player/src/main/java/br/com/mangarosa/model/No.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,21 +44,13 @@
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
     &quot;state&quot;: &quot;OPEN&quot;,
-
-    &quot;assignee&quot;: &quot;NanaGio&quot;
-
     &quot;assignee&quot;: &quot;COMPRAINDUSTRIA&quot;
-
   }
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/unex-lasilva/manga-sound-heap-de-genios.git&quot;,
-
-    &quot;accountId&quot;: &quot;e69e4cad-c0ed-4102-9a3b-8fd3ce2063d4&quot;
-
-    &quot;accountId&quot;: &quot;c2a8e170-7d70-4e60-a9b0-46732f48b5b2&quot;
-
+    &quot;accountId&quot;: &quot;5af956e0-f8db-4f0c-96e1-eead49aac1cc&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -75,33 +66,26 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.MangaSoundApplication.executor&quot;: &quot;Run&quot;,
     &quot;JUnit.ListaEncadeadaTest.executor&quot;: &quot;Run&quot;,
     &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-
-    &quot;git-widget-placeholder&quot;: &quot;gio2&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feat/reprodutor-lista&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/mangaController&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Janaina/Desktop/OAT PLAY LIST/REPOSITORIO/manga-sound-heap-de-genios&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/haumea/IdeaProjects/MangaSound/MangaSound/manga-sound-heap-de-genios&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/lasilva/Documents/UNEX/GitHub-Templates/manga-sound-template/manga-sound/test/src/Main.java&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
-
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
-
   }
 }</component>
   <component name="RecentsManager">
@@ -134,14 +118,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.153" />
-        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.153" />
-      </set>
-    </attachedChunks>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -154,6 +130,23 @@
       <workItem from="1745269436016" duration="832000" />
       <workItem from="1745272055561" duration="166000" />
     </task>
+    <task id="LOCAL-00001" summary="adicionando features do mangacontroller, falta colocar os tratamentos de erro e melhorar a logica, mas boa parte ja esta feita e comentada, e depois integrar tudo no MangaSoundApplication">
+      <option name="closed" value="true" />
+      <created>1745373924998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745373924998</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Substitui ListaEncadeada por um ArrayList no MangaController, adicionei tratamento de erros, tirei o que estava comentado no MangaSoundApplication e adicionei o metodo que faltava pra editar a playlist, faltando apenas as pontuacoes nas palavras e testar substituindo o ArrayList pela ListaEncadeada que esta sendo desenvolvida">
+      <option name="closed" value="true" />
+      <created>1745449809854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745449809855</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +174,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adicionando features do mangacontroller, falta colocar os tratamentos de erro e melhorar a logica, mas boa parte ja esta feita e comentada, e depois integrar tudo no MangaSoundApplication" />
+    <MESSAGE value="Substitui ListaEncadeada por um ArrayList no MangaController, adicionei tratamento de erros, tirei o que estava comentado no MangaSoundApplication e adicionei o metodo que faltava pra editar a playlist, faltando apenas as pontuacoes nas palavras e testar substituindo o ArrayList pela ListaEncadeada que esta sendo desenvolvida" />
+    <option name="LAST_COMMIT_MESSAGE" value="Substitui ListaEncadeada por um ArrayList no MangaController, adicionei tratamento de erros, tirei o que estava comentado no MangaSoundApplication e adicionei o metodo que faltava pra editar a playlist, faltando apenas as pontuacoes nas palavras e testar substituindo o ArrayList pela ListaEncadeada que esta sendo desenvolvida" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
